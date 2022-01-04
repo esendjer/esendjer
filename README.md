@@ -10,16 +10,16 @@
 
 <br>
 <p align="center">
-<a href="https://www.linkedin.com/in/evgenii-shubin-a38657a3" target="_blank" rel="noreferrer"><img src="img/in-icon.jpg" class="img-icon" width="60" height="60"></a>
-<a href="https://t.me/esendjer" target="_blank" rel="noreferrer"><img src="img/tg-icon.jpg" class="img-icon" width="60" height="60"></a>
-<a href="mailto:esendjer@gmail.com" target="_blank" rel="noreferrer"><img src="img/gm-icon.jpg" class="img-icon" width="60" height="60"></a>
+<a href="https://www.linkedin.com/in/evgenii-shubin-a38657a3" target="_blank" rel="noreferrer"><img src="img/in-icon.png" width="60" height="60"></a>
+<a href="https://t.me/esendjer" target="_blank" rel="noreferrer"><img src="img/tg-icon.png" width="60" height="60"></a>
+<a href="mailto:esendjer@gmail.com" target="_blank" rel="noreferrer"><img src="img/gm-icon.png" width="60" height="60"></a>
 </p>
 
 <p align="center"></p>
 
 <br>
 
-## Technologies, Tools & Languages:
+# Technologies, Tools & Languages:
 <p align="left">
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://www.hashicorp.com/products/terraform" target="_blank" rel="noreferrer"> <img src="https://www.datocms-assets.com/2885/1620155116-brandhcterraformverticalcolor.svg" alt="terraform" width="40" height="40"/> </a>
