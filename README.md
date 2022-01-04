@@ -10,10 +10,6 @@
 
 <br>
 <p align="center">
-<style>
-.img-icon {
-  border-radius: 40%;
-}
 </style>
 <a href="https://www.linkedin.com/in/evgenii-shubin-a38657a3" target="_blank" rel="noreferrer"><img src="img/in-icon.jpg" class="img-icon" width="60" height="60"></a>
 <a href="https://t.me/esendjer" target="_blank" rel="noreferrer"><img src="img/tg-icon.jpg" class="img-icon" width="60" height="60"></a>
