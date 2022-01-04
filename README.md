@@ -1,13 +1,18 @@
 <h1 align="center"> Hey 👋, I'm Eugene (Evgenii) </h1>
 
 <h2 align="center"> A Systems Engineer / DevOps </h2>
+<img align='left' src="img/left.png" width="10"><img align='right' src="img/right.png" width="10">
+9+ years of experience focused on design, implementation, and support of IT infrastructure (currently, Cloud focused), automating administration tasks, planning, and maintaining CI/CD processes.
 <br>
- 9+ years of experience focused on design, implementation, and support of IT infrastructure (currently, Cloud focused), automating administration tasks, planning, and maintaining CI/CD processes.
-<br><br>
+<br>
+<img align='right' src="img/erik.png" width="140">
+<br>
+<br>
 
 - 🔭 I’m currently working on **[EPAM Anywhere](https://anywhere.epam.com)**
 -  [📄 Know about my experiences](https://esendjer.github.io/)
 
+<br>
 <br>
 <p align="center">
 <a href="https://www.linkedin.com/in/evgenii-shubin-a38657a3" target="_blank" rel="noreferrer"><img src="img/in-icon.png" width="60" height="60"></a>
