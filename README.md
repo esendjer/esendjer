@@ -60,9 +60,9 @@
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=esendjer&show_icons=true&locale=en&layout=compact&theme=city_lights" alt="esendjer" width="350" height="140"/>
-<img src="https://github-readme-stats.vercel.app/api?username=esendjer&show_icons=true&locale=en&theme=city_lights" alt="esendjer" width="350" height="140"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=esendjer&theme=city-lights" alt="esendjer" width="350" height="140"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=esendjer&show_icons=true&locale=en&layout=compact&theme=nord" alt="esendjer" width="350" height="140"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=esendjer&show_icons=true&locale=en&theme=city_lights" alt="esendjer" width="350" height="140"/> -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=esendjer&theme=nord" alt="esendjer" width="350" height="140"/>
 </p>
 
 <p align="center">
