@@ -9,7 +9,7 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on **[EPAM Anywhere](https://anywhere.epam.com)**
+- 🔭 Sys Engineer @ **[EPAM](https://www.epam.com/)**
 -  [📄 Know about my experiences](https://esendjer.github.io/)
 
 <br>
